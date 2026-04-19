@@ -1,0 +1,100 @@
+﻿You are modifying an existing C# (.NET) project that processes PDF files from a folder, sends them to LlamaParse, and saves the result as Markdown files.
+
+Your task is to implement a caching mechanism so that already processed files are NOT processed again on subsequent runs.
+
+IMPORTANT CONSTRAINTS:
+
+* DO NOT refactor or redesign the project.
+* DO NOT rename existing classes or methods unless absolutely necessary.
+* DO NOT change existing business logic.
+* ONLY ADD minimal new code required for caching.
+* Integrate into the current pipeline as-is.
+
+FUNCTIONAL REQUIREMENTS:
+
+1. Create a lightweight cache stored in a JSON file:
+   Path: "Storage/state/processed-files.json"
+
+2. Each processed file must be stored as a record with:
+
+   * FileName (string)
+   * RelativePath (string)
+   * Sha256 (string)
+   * Size (long)
+   * LastWriteTimeUtc (DateTime)
+   * ProcessedAtUtc (DateTime)
+   * MarkdownFileName (string)
+
+3. Before processing each PDF:
+
+   * Compute SHA-256 hash of the file
+   * Load processed-files.json
+   * If a record with the same hash exists → SKIP processing
+   * If not → process file as usual
+
+4. After successful processing:
+
+   * Save markdown file as before
+   * Add new record to cache
+   * Persist updated JSON file
+
+5. If cache file does not exist:
+
+   * Create it automatically
+
+IMPLEMENTATION DETAILS:
+
+* Add a new class:
+  ProcessedFileRecord
+
+* Add a new service:
+  ProcessedFilesStore
+  Responsibilities:
+
+  * Load cache from JSON
+  * Save cache to JSON
+
+* Add a helper:
+  FileHashHelper
+  Method:
+  Task ComputeSha256Async(string filePath)
+
+* Use System.Text.Json for serialization
+
+* Use async/await everywhere
+
+* Ensure directory "Storage/state" is created automatically
+
+INTEGRATION:
+
+* Modify ONLY the part of code where files are iterated and processed
+* Add hash check BEFORE calling LlamaParse
+* Add cache update AFTER successful processing
+
+EDGE CASES:
+
+* If JSON is empty or corrupted → fallback to empty list
+* Prevent duplicate entries (same hash should not be added twice)
+
+OUTPUT FORMAT:
+
+* Provide ONLY the new classes and minimal changes needed
+
+* Clearly mark:
+  // NEW FILE
+  // MODIFIED
+
+* Do NOT rewrite unrelated code
+
+GOAL:
+
+After implementation:
+
+* Running the program twice should NOT reprocess the same PDFs
+* Only newly added or changed files (by hash) should be processed
+
+Do not invent additional abstractions.
+
+Do not introduce dependency injection if it is not already used.
+
+Keep everything simple and explicit.
