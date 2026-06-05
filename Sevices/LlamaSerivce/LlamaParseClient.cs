@@ -3,7 +3,7 @@ using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace LlamaParserV2;
+namespace LlamaParserV2.Sevices.LlamaService;
 
 // Client for sending files and requests to the LlamaParse API.
 public sealed class LlamaParseClient

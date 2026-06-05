@@ -1,7 +1,7 @@
 // NEW FILE
 using System.Text.Json;
 
-namespace LlamaParserV2;
+namespace LlamaParserV2.Sevices.FileHelper;
 
 // Reads and saves the processed files cache to a JSON file.
 public sealed class ProcessedFilesStore

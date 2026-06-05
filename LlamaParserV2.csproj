@@ -8,7 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Storage\State\" />
+    <Folder Include="Sevices\QdarantLoadService\" />
+    <Folder Include="Storage\Processed\" />
+    <Folder Include="Storage\DocumentPreparedChunks\" />
   </ItemGroup>
 
 </Project>

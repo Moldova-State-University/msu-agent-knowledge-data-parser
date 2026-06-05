@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace LlamaParserV2;
+namespace LlamaParserV2.Sevices.LlamaService;
 
 // The request body sent to the LlamaParse API.
 public sealed class LlamaParseJsonRequest

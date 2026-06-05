@@ -1,0 +1,357 @@
+[
+  {
+    "Id": "processingtest_chunk_00000",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 0,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA",
+      "DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA > DISPOZIȚII GENERALE",
+    "HeadingLevel": 3,
+    "ChunkText": "Art. 1. Prezentul Regulament stabilește cadrul normativ ce reglementează procesul de formare profesională la ciclul I, studii superioare de licență, în cadrul Universității de Stat din Moldova. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA > DISPOZIȚII GENERALE\n\nText:\nArt. 1. Prezentul Regulament stabilește cadrul normativ ce reglementează procesul de formare profesională la ciclul I, studii superioare de licență, în cadrul Universității de Stat din Moldova. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "78e13ac6e62f1c42c6d2ac37a641c91baff3968c0d46492f1f20eb9dcc6e01d6"
+  },
+  {
+    "Id": "processingtest_chunk_00001",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 1,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA",
+      "DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA > DISPOZIȚII GENERALE",
+    "HeadingLevel": 3,
+    "ChunkText": "Art. 2. Prezentul Regulament este elaborat în conformitate cu:\n\n* Codul Educației al Republicii Moldova, Legea nr. 152 din 17.07.2014;\n* Ghidul utilizatorului Sistemului European de Credite Trasferabile/ ECTS, 2015;\n* Nomenclatorul domeniilor de formare profesională şi al specialităților în învățământul superior, aprobat prin HG Nr. 482 din 28.06.2017;\n* Cadrul Național al Calificărilor din Republica Moldova, aprobat prin HG nr. 1016 din 23.11.2017;\n* Regulamentul cu privire la condiţiile de ocupare a locurilor cu finanţare bugetară în instituţiile de învăţământ superior de stat din Republica Moldova, Anexa la Ordinul ME nr. 748 din 12.07.2013;\n* Regulamentul cu privire la mobilitatea academică în învățământul superior, aprobat prin HG nr. 56 din 27.01.2014;\n* Regulamentul-cadru privind stagiile de practică în învățământul superior, Ordinul ME nr. 203 din 19.03.2014;\n* Regulamentul-cadru privind organizarea examenului de finalizare a studiilor superioare de licență, aprobat prin Ordinul ME nr. 1047 din 29.10.2015;\n* Regulamentul de organizare a studiilor superioare de licență (ciclul I) și intregate, Anexa la Ordinul MECC nr. 1625 din 12.12.2019;\n* Planul-cadru pentru studii superioare de licență (ciclul I), de master (ciclul II) și integrate, Anexa la Ordinul MECC nr. 120 din 10.02.2020;\n* Carta Universității de Stat din Moldova, aprobată prin decizia Senatului USM din 31.03.2015;\n* Regulament cu privire la condițiile de ocupare a locurilor cu finanțare bugetară la USM, aprobat prin decizia Senatului USM din 27.05.2014;\n* Regulamentul de aplicare a Sistemului Național de Credite de Studiu la USM, aprobat prin decizia Senatului USM din 25.02.2014;\n* Regulament instituțional privind evaluarea randamentului academic, aprobat prin decizia Senatului USM din 15.04.2014;\n* Regulament privind lichidarea restanțelor academice ale studenților Universității de Stat din Moldova, aporbat prin decizia Senatului USM din 25.11.2014;\n* Regulament cu privire la organizarea stagiilor de practică la ciclul I, studii superioare de licență, ciclul II, studii superioare de masterat, aprobat prin decizia Senatului USM din 26.01.2016. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA > DISPOZIȚII GENERALE\n\nText:\nArt. 2. Prezentul Regulament este elaborat în conformitate cu:\n\n* Codul Educației al Republicii Moldova, Legea nr. 152 din 17.07.2014;\n* Ghidul utilizatorului Sistemului European de Credite Trasferabile/ ECTS, 2015;\n* Nomenclatorul domeniilor de formare profesională şi al specialităților în învățământul superior, aprobat prin HG Nr. 482 din 28.06.2017;\n* Cadrul Național al Calificărilor din Republica Moldova, aprobat prin HG nr. 1016 din 23.11.2017;\n* Regulamentul cu privire la condiţiile de ocupare a locurilor cu finanţare bugetară în instituţiile de învăţământ superior de stat din Republica Moldova, Anexa la Ordinul ME nr. 748 din 12.07.2013;\n* Regulamentul cu privire la mobilitatea academică în învățământul superior, aprobat prin HG nr. 56 din 27.01.2014;\n* Regulamentul-cadru privind stagiile de practică în învățământul superior, Ordinul ME nr. 203 din 19.03.2014;\n* Regulamentul-cadru privind organizarea examenului de finalizare a studiilor superioare de licență, aprobat prin Ordinul ME nr. 1047 din 29.10.2015;\n* Regulamentul de organizare a studiilor superioare de licență (ciclul I) și intregate, Anexa la Ordinul MECC nr. 1625 din 12.12.2019;\n* Planul-cadru pentru studii superioare de licență (ciclul I), de master (ciclul II) și integrate, Anexa la Ordinul MECC nr. 120 din 10.02.2020;\n* Carta Universității de Stat din Moldova, aprobată prin decizia Senatului USM din 31.03.2015;\n* Regulament cu privire la condițiile de ocupare a locurilor cu finanțare bugetară la USM, aprobat prin decizia Senatului USM din 27.05.2014;\n* Regulamentul de aplicare a Sistemului Național de Credite de Studiu la USM, aprobat prin decizia Senatului USM din 25.02.2014;\n* Regulament instituțional privind evaluarea randamentului academic, aprobat prin decizia Senatului USM din 15.04.2014;\n* Regulament privind lichidarea restanțelor academice ale studenților Universității de Stat din Moldova, aporbat prin decizia Senatului USM din 25.11.2014;\n* Regulament cu privire la organizarea stagiilor de practică la ciclul I, studii superioare de licență, ciclul II, studii superioare de masterat, aprobat prin decizia Senatului USM din 26.01.2016. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "6a0a7b7a5503c0b1a3d83e87e127a8e9a340a2bfea3b2756dc548e616b9408df"
+  },
+  {
+    "Id": "processingtest_chunk_00002",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 2,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA",
+      "DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA > DISPOZIȚII GENERALE",
+    "HeadingLevel": 3,
+    "ChunkText": "**Art. 3.** Procesul de formare profesională la ciclul I, studii superioare de licență reflectă viziunea și misiunea USM privind asigurarea realizării standardelor de calitate în domeniul serviciilor educaționale în formarea inițială a specialiştilor de înaltă calificare pentru economia națională și competitive pe piața muncii internațională. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA > DISPOZIȚII GENERALE\n\nText:\n**Art. 3.** Procesul de formare profesională la ciclul I, studii superioare de licență reflectă viziunea și misiunea USM privind asigurarea realizării standardelor de calitate în domeniul serviciilor educaționale în formarea inițială a specialiştilor de înaltă calificare pentru economia națională și competitive pe piața muncii internațională. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "7b38cd2f189880b5359c95837550b0da7c4686640720574bfb262e560f2506a7"
+  },
+  {
+    "Id": "processingtest_chunk_00003",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 3,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA",
+      "DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA > DISPOZIȚII GENERALE",
+    "HeadingLevel": 3,
+    "ChunkText": "**Art. 4.** Procesul de formare profesională la ciclul I, studii superioare de licență se realizează în cadrul Universităţii de Stat din Moldova (USM) în conformitate cu politica educaţională instituțională, cu accent pe orientarea finalităţilor de studii către cerinţele pieţei muncii şi formarea sistemului de competenţe necesar integrării socioprofesionale. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > REGULAMENT PRIVIND FORMAREA PROFESIONALĂ LA CICLUL I, STUDII SUPERIOARE DE LICENȚĂ ÎN CADRUL UNIVERSITĂȚII DE STAT DIN MOLDOVA > DISPOZIȚII GENERALE\n\nText:\n**Art. 4.** Procesul de formare profesională la ciclul I, studii superioare de licență se realizează în cadrul Universităţii de Stat din Moldova (USM) în conformitate cu politica educaţională instituțională, cu accent pe orientarea finalităţilor de studii către cerinţele pieţei muncii şi formarea sistemului de competenţe necesar integrării socioprofesionale. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "edca5d88718b6c8d1bbe8620479f2580901d3d3b05e3c5e8e9da81d6cebcb47a"
+  },
+  {
+    "Id": "processingtest_chunk_00004",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 4,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "CAPITOLUL II",
+      "Organizarea procesului de formare profesională"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > CAPITOLUL II > Organizarea procesului de formare profesională",
+    "HeadingLevel": 3,
+    "ChunkText": "**Art. 5.** USM organizează procesul de formare profesională la ciclul I, studii superioare de licență la programele de studii acreditate sau autorizate provizoriu. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > CAPITOLUL II > Organizarea procesului de formare profesională\n\nText:\n**Art. 5.** USM organizează procesul de formare profesională la ciclul I, studii superioare de licență la programele de studii acreditate sau autorizate provizoriu. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "1f02e5f289e05b1bdc76ef9770af3c198a59cac01f35db1d6fbf61ebd5631c95"
+  },
+  {
+    "Id": "processingtest_chunk_00005",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 5,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "CAPITOLUL II",
+      "Organizarea procesului de formare profesională"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > CAPITOLUL II > Organizarea procesului de formare profesională",
+    "HeadingLevel": 3,
+    "ChunkText": "**Art. 6.** USM organizează procesul de formare profesională la ciclul I, studii superioare de licență prin următoarele forme de învăţământ:\n\n* a) cu frecvenţă;\n* b) cu frecvenţă redusă;\n* c) la distanţă. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > CAPITOLUL II > Organizarea procesului de formare profesională\n\nText:\n**Art. 6.** USM organizează procesul de formare profesională la ciclul I, studii superioare de licență prin următoarele forme de învăţământ:\n\n* a) cu frecvenţă;\n* b) cu frecvenţă redusă;\n* c) la distanţă. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "e2d6bc18033deb459069287c424d6ffddf17d1219bcaafd12a9705095ee8c54d"
+  },
+  {
+    "Id": "processingtest_chunk_00006",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 6,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "CAPITOLUL II",
+      "Organizarea procesului de formare profesională"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > CAPITOLUL II > Organizarea procesului de formare profesională",
+    "HeadingLevel": 3,
+    "ChunkText": "**Art. 7.** Formele de învățământ cu frecvenţă redusă şi la distanţă pot fi organizate doar pentru programele de formare profesională de la ciclul I, licenţă la care se realizează şi studii cu frecvenţă. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > CAPITOLUL II > Organizarea procesului de formare profesională\n\nText:\n**Art. 7.** Formele de învățământ cu frecvenţă redusă şi la distanţă pot fi organizate doar pentru programele de formare profesională de la ciclul I, licenţă la care se realizează şi studii cu frecvenţă. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "54c304aead00dec5f42928f6fc247915062a9407cba6e1ed5cd3f852d02b24ae"
+  },
+  {
+    "Id": "processingtest_chunk_00007",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 7,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "CAPITOLUL II",
+      "Organizarea procesului de formare profesională"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > CAPITOLUL II > Organizarea procesului de formare profesională",
+    "HeadingLevel": 3,
+    "ChunkText": "**Art. 8.** La programele de studii din domeniul de formare profesională 0313 Psihologie şi 0231 Studiul limbilor, studiile superioare de licenţă se organizează doar la forma de învăţământ cu frecvenţă. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > CAPITOLUL II > Organizarea procesului de formare profesională\n\nText:\n**Art. 8.** La programele de studii din domeniul de formare profesională 0313 Psihologie şi 0231 Studiul limbilor, studiile superioare de licenţă se organizează doar la forma de învăţământ cu frecvenţă. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "949f9786b4781119042a1e239068739d50693fe0ad0c2d20b5566ead28e91e7c"
+  },
+  {
+    "Id": "processingtest_chunk_00008",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 8,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "CAPITOLUL II",
+      "Organizarea procesului de formare profesională"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > CAPITOLUL II > Organizarea procesului de formare profesională",
+    "HeadingLevel": 3,
+    "ChunkText": "**Art. 9.** USM organizează procesul de formare profesională, în cadrul studiilor superioare de licență, la specialități duble în domeniul general de studiu 011 Științe ale educației. Durata studiilor la aceste programe este mai mare cu un an. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > CAPITOLUL II > Organizarea procesului de formare profesională\n\nText:\n**Art. 9.** USM organizează procesul de formare profesională, în cadrul studiilor superioare de licență, la specialități duble în domeniul general de studiu 011 Științe ale educației. Durata studiilor la aceste programe este mai mare cu un an. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "a36464718b8aac7b4d4a842aca3672e65fedee4a581aafad9ed568957aa8f08a"
+  },
+  {
+    "Id": "processingtest_chunk_00009",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 9,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "CAPITOLUL II",
+      "I. Programele de studii"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > CAPITOLUL II > I. Programele de studii",
+    "HeadingLevel": 3,
+    "ChunkText": "**Art. 10.** Programele de studii reflectă concepţia şi conţinutul formării profesionale la ciclul I, studii superioare de licenţă și sunt actualizate periodic și incluse în oferta educațională a USM. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > CAPITOLUL II > I. Programele de studii\n\nText:\n**Art. 10.** Programele de studii reflectă concepţia şi conţinutul formării profesionale la ciclul I, studii superioare de licenţă și sunt actualizate periodic și incluse în oferta educațională a USM. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "6ca8e50afd9fb4aa3e61807f132bbb90f14c41fe47a622fe40bf5c5f41270c71"
+  },
+  {
+    "Id": "processingtest_chunk_00010",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 10,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "CAPITOLUL II",
+      "I. Programele de studii"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > CAPITOLUL II > I. Programele de studii",
+    "HeadingLevel": 3,
+    "ChunkText": "**Art. 11.** Programele de studii proiectează traseul de formare profesională al studentului, orientat spre realizarea finalităţilor de studii şi obţinerea calificării profesionale. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > CAPITOLUL II > I. Programele de studii\n\nText:\n**Art. 11.** Programele de studii proiectează traseul de formare profesională al studentului, orientat spre realizarea finalităţilor de studii şi obţinerea calificării profesionale. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "e9a45c6f4f601d0543db0e442130d404bf1a0c2099c72c9147450bd3e48eb5a6"
+  },
+  {
+    "Id": "processingtest_chunk_00011",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 11,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "CAPITOLUL II",
+      "I. Programele de studii"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > CAPITOLUL II > I. Programele de studii",
+    "HeadingLevel": 3,
+    "ChunkText": "**Art. 12.** Programele de studii, realizate în cadrul USM, oferă procesului de formare profesională particularităţi distincte, determinate de tradiţiile ştiinţifico-didactice din instituţie şi experienţa şcolilor ştiinţifice din diverse domenii de cercetare. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > CAPITOLUL II > I. Programele de studii\n\nText:\n**Art. 12.** Programele de studii, realizate în cadrul USM, oferă procesului de formare profesională particularităţi distincte, determinate de tradiţiile ştiinţifico-didactice din instituţie şi experienţa şcolilor ştiinţifice din diverse domenii de cercetare. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "3a0196077ac64b0671928b582b0a58a5776ef8f84b2240e77345321b55567e21"
+  },
+  {
+    "Id": "processingtest_chunk_00012",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 12,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "CAPITOLUL II",
+      "I. Programele de studii"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > CAPITOLUL II > I. Programele de studii",
+    "HeadingLevel": 3,
+    "ChunkText": "**Art. 13.** Programele de formare profesională la ciclul I, studii superioare de licență, sunt conceptualizate în baza unei abordări curriculare, care reflectă tendinţele moderne ale procesului educaţional şi sunt orientate spre formarea competenţelor profesionale solicitate de piața muncii. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > CAPITOLUL II > I. Programele de studii\n\nText:\n**Art. 13.** Programele de formare profesională la ciclul I, studii superioare de licență, sunt conceptualizate în baza unei abordări curriculare, care reflectă tendinţele moderne ale procesului educaţional şi sunt orientate spre formarea competenţelor profesionale solicitate de piața muncii. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "7054c0b91218c0eaa58b08e6b547546e6d390f8b0119397e398b172ddf105588"
+  },
+  {
+    "Id": "processingtest_chunk_00013",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 13,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "II. Programele comune de studii"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > II. Programele comune de studii",
+    "HeadingLevel": 2,
+    "ChunkText": "**Art. 14.** USM organizează programe comune de formare profesională la ciclul I, licență în colaborare/ parteneriat cu alte instituții de învățământ superior naționale sau internaționale. Programele comune de studii superioare reprezintă o formă de colaborare dintre USM şi alte instituţii de învăţământ superior, realizate, de regulă, în cadrul unor consorţii. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > II. Programele comune de studii\n\nText:\n**Art. 14.** USM organizează programe comune de formare profesională la ciclul I, licență în colaborare/ parteneriat cu alte instituții de învățământ superior naționale sau internaționale. Programele comune de studii superioare reprezintă o formă de colaborare dintre USM şi alte instituţii de învăţământ superior, realizate, de regulă, în cadrul unor consorţii. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "1121fefa9b6fef84d04e5f7e64e64abafcc8309aaacdd3ca895bb1069bddd3df"
+  },
+  {
+    "Id": "processingtest_chunk_00014",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 14,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "II. Programele comune de studii"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > II. Programele comune de studii",
+    "HeadingLevel": 2,
+    "ChunkText": "**Art. 15.** Un program comun de studii superioare, organizat la USM, presupune că:\na) instituţiile membre ale consorţiului sunt autorizate provizoriu sau acreditate în ţara de origine;\nb) fiecare membru al consorţiului dispune de permisiunea autorităţilor naţionale abilitate în acest scop pentru organizarea programului comun. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > II. Programele comune de studii\n\nText:\n**Art. 15.** Un program comun de studii superioare, organizat la USM, presupune că:\na) instituţiile membre ale consorţiului sunt autorizate provizoriu sau acreditate în ţara de origine;\nb) fiecare membru al consorţiului dispune de permisiunea autorităţilor naţionale abilitate în acest scop pentru organizarea programului comun. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "c9777615dc75362e80db04c9ffb0d82a02f53d9a90d68e0b994521d635fa6149"
+  },
+  {
+    "Id": "processingtest_chunk_00015",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 15,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "II. Programele comune de studii"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > II. Programele comune de studii",
+    "HeadingLevel": 2,
+    "ChunkText": "**Art. 16.** Colaborarea în cadrul programelor comune de studii prevede:\na) elaborarea şi aprobarea programului de studii superioare de licenţă;\nb) organizarea admiterii;\nc) supervizarea academică, conferirea calificării şi asigurarea calităţii. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > II. Programele comune de studii\n\nText:\n**Art. 16.** Colaborarea în cadrul programelor comune de studii prevede:\na) elaborarea şi aprobarea programului de studii superioare de licenţă;\nb) organizarea admiterii;\nc) supervizarea academică, conferirea calificării şi asigurarea calităţii. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "3b3ee720228fb380dd560f97538e505f256b540a29ba9e0a65029d9094b47ad7"
+  },
+  {
+    "Id": "processingtest_chunk_00016",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 16,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "II. Programele comune de studii"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > II. Programele comune de studii",
+    "HeadingLevel": 2,
+    "ChunkText": "**Art. 17.** Acordarea calificării comune şi eliberarea diplomei comune se realizează în una din următoarele formule:\na) o diplomă comună suplimentară la diploma naţională;\nb) o diplomă comună emisă de către USM şi instituţiile partenere;\nc) o diplomă naţională eliberată oficial şi un certificat pentru atestarea calificării acordate în comun.\n\nDiplomele şi certificatele comune se perfectează în limbile de comunicare stabilite în cadrul parteneriatului şi în limba engleză. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > II. Programele comune de studii\n\nText:\n**Art. 17.** Acordarea calificării comune şi eliberarea diplomei comune se realizează în una din următoarele formule:\na) o diplomă comună suplimentară la diploma naţională;\nb) o diplomă comună emisă de către USM şi instituţiile partenere;\nc) o diplomă naţională eliberată oficial şi un certificat pentru atestarea calificării acordate în comun.\n\nDiplomele şi certificatele comune se perfectează în limbile de comunicare stabilite în cadrul parteneriatului şi în limba engleză. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "205bbd3457e81d84abd31215d90717fcb41f3e76f6340333770636b0562e0cc3"
+  },
+  {
+    "Id": "processingtest_chunk_00017",
+    "DocumentId": "processingtest",
+    "DocumentTitle": "Universitatea de Stat din Moldova",
+    "ChunkIndex": 17,
+    "Headings": [
+      "Universitatea de Stat din Moldova",
+      "II. Programele comune de studii"
+    ],
+    "HeadingPath": "Universitatea de Stat din Moldova > II. Programele comune de studii",
+    "HeadingLevel": 2,
+    "ChunkText": "**Art. 18.** Studenţii din fiecare instituţie participantă la programul comun, realizează câte o perioadă de studii în diferite instituţii partenere, dar nu obligatoriu în toate instituţiile consorţiului. Perioada de studii a participanţilor la program în cadrul instituţiilor sau organizaţiilor partenere ale instituţiei de învățământ superior, constituie o parte substanțială a programului comun (nu mai puțin de 30 de credite). Perioadele de studii și examenele promovate în cadrul instituțiilor partenere sunt recunoscute pe deplin și în mod expres, conform legislației în vigoare. ",
+    "EmbeddingText": "Document: Universitatea de Stat din Moldova\nPath: Universitatea de Stat din Moldova > II. Programele comune de studii\n\nText:\n**Art. 18.** Studenţii din fiecare instituţie participantă la programul comun, realizează câte o perioadă de studii în diferite instituţii partenere, dar nu obligatoriu în toate instituţiile consorţiului. Perioada de studii a participanţilor la program în cadrul instituţiilor sau organizaţiilor partenere ale instituţiei de învățământ superior, constituie o parte substanțială a programului comun (nu mai puțin de 30 de credite). Perioadele de studii și examenele promovate în cadrul instituțiilor partenere sunt recunoscute pe deplin și în mod expres, conform legislației în vigoare. ",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "ProcessingTest.md",
+    "Hash": "870915ba160bbae138c28fd3c6ecb1fe0673b27e93cea27b647227bfa647dde0"
+  }
+]

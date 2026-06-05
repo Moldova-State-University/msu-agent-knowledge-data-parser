@@ -1,7 +1,7 @@
 // NEW FILE
 using System.Security.Cryptography;
 
-namespace LlamaParserV2;
+namespace LlamaParserV2.Sevices.FileHelper;
 
 // Contains helper method to compute a file hash.
 public static class FileHashHelper

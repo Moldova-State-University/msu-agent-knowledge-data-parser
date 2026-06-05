@@ -1,5 +1,5 @@
 // NEW FILE
-namespace LlamaParserV2;
+namespace LlamaParserV2.Sevices.FileHelper;
 
 // Stores data about a PDF file that has already been processed.
 public sealed class ProcessedFileRecord
